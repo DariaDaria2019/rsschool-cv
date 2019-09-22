@@ -1,6 +1,6 @@
 1. Daria Osminnikova
 2.e-mail: bubbles.tut@gmail.com
-3. In recent years, she studied without the ability to work.
+3.In recent years, she studied without the ability to work.
 Active life position, competent speech;
 Experience with children;
 Experience with clients, communication by phone;

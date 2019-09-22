@@ -1,0 +1,40 @@
+html {
+	box-sizing:border-box;
+	}
+*,*::before,*::after {
+	box-sizing:inherit;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	max-width: 1024px;
+	background: url('http://www.anypics.ru/pic/201411/1024x768/anypics.ru-79353.jpg');
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.cv {
+	display: flex;
+}
+
+.portfolio img{
+	border: 1px solid #FFFFFF;
+	margin: 25px;
+	max-width: 275px;
+}
+
+.text {
+	width: 600px;
+	margin: 25px;
+}
+
+.text li {
+	letter-spacing: 0.03em;
+	line-height: 150%;
+}
+
+li:hover {
+border-bottom: 2px solid #FF3390;
+}
+

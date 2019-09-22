@@ -1,3 +1,4 @@
+
 1. Daria Osminnikova, Izevsk
 
 2. e-mail: bubbles.tut@gmail.com
@@ -23,3 +24,4 @@ certificate of participation in summer probation "Summer kitchen" from OOO "Pico
 7. Higher education: Glazov State Pedagogical institute, specialty: Teacher Education (maths, Informatics subjects) 
 
 8. I don't have a goog practise in English, but now i getting an education in the specialty "software engineering", where I have the opportunity to improve my spoken english
+

@@ -1,5 +1,5 @@
 
-1. Daria Osminnikova, Izevsk
+1. Daria Osminnikova, Izhevsk
 
 2. e-mail: bubbles.tut@gmail.com
 
